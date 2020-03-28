@@ -1,6 +1,5 @@
 # fundamentos-js
-> Curso instrutor Erick Wendel, sobre Fundamentos do Java Script
-[Link do curso](https://fundamentosjs.erickwendel.com.br/)
+> Curso instrutor Erick Wendel, sobre [Fundamentos do Java Script](https://fundamentosjs.erickwendel.com.br/)
  
 ## O que você vai aprender?
 * 😍 - Criar um projeto do zero
